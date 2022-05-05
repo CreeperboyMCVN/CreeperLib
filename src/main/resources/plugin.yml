@@ -1,0 +1,6 @@
+name: Creeperlib
+version: '${project.version}'
+main: com.creeperboymcvn.creeperlib.Creeperlib
+api-version: 1.15
+authors: [ CreeperboyMCVN ]
+description: Lib for CreeperboyMCVN's plugins
